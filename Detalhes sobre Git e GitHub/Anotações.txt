@@ -1,0 +1,9 @@
+Comandos Git:
+$ git status [detectar novos arquivos]
+
+$ git add . ou git add -A [considerar novas alterações no controle de versão]
+
+$ git commit -m [grava as alterações para o commit e permite adicionar um comentario ao commit]
+
+$ git push origin main [envia os commits locais para a nuvem]
+  
